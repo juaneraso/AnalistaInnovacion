@@ -1,0 +1,6 @@
+undetected-chromedriver
+selenium
+pandas
+pypdf
+setuptools
+cryptography
