@@ -8,6 +8,7 @@ Automatiza dos tareas sobre facturas electrónicas del catálogo de la DIAN (Col
 ## Estructura
 
 ```
+AnalistaInnovacion/
 facturas-dian/
 ├── main.py                      # CLI (argparse)
 ├── facturas_dian/
@@ -28,6 +29,14 @@ facturas-dian/
 ## Instalación
 
 ### Windows (PowerShell o CMD)
+
+Ubicate en la ruta
+
+```
+cd AnalistaInnovacion/
+```
+
+Escribe los siguientes comandos en orden
 
 ```
 python -m venv venv
